@@ -5644,12 +5644,12 @@ ABDOU;CHRAIBI;Médecine Générale;;;;Non trouvé;Aucun horaire trouvé
 SARAH;GASPAR;Pédiatrie;;;;Non trouvé;Aucun horaire trouvé
 DAT;CHU BA;Médecine Générale;;;;Non trouvé;Aucun horaire trouvé
 REGULA;GARRET-ROSTI;Médecine Générale;;;;Non trouvé;Aucun horaire trouvé
-HELENE;CHOUT;Médecine Générale;;;;;
-HELENE;GARDE-MARTY;Médecine Générale;;;;;
-JULIE;CHOPINAUD;Médecine Générale;;;;;
-EMILIE;GARAY;Médecine Générale;;;;;
+HELENE;CHOUT;Médecine Générale;;;;Non trouvé;Aucun horaire trouvé
+HELENE;GARDE-MARTY;Médecine Générale;;;;Non trouvé;Aucun horaire trouvé
+JULIE;CHOPINAUD;Médecine Générale;;;;Non trouvé;Aucun horaire trouvé
+EMILIE;GARAY;Médecine Générale;;;;Non trouvé;Aucun horaire trouvé
 LAURENCE;GANDOLFO;Médecine Générale;;;;;
-FLORENCE;GANTIER;Médecine Générale;;;;;
+FLORENCE;GANTIER;Médecine Générale;Lundi Fermé | Mardi Fermé | Mercredi 09:00-18:00 | Jeudi 09:00-18:00 | Vendredi Fermé | Samedi Fermé | Dimanche Fermé;www.horairesdouverture24.fr;https://www.horairesdouverture24.fr/filiale/Antony-Dr+Florence+Gantier+-+M�decin+urgentiste-5100011U.html;Trouvé;Trouvé sur la page
 CAMILLE;CHIRAT;Médecine Générale;;;;;
 SOFIAN;CHIOUKH;Médecine Générale;;;;;
 THEMIS;GALODE;Médecine Générale;;;;;
